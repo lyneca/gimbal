@@ -1,0 +1,9 @@
+[package]
+authors = ["Luke Tuthill <ltuthill@atlassian.com>"]
+edition = "2018"
+name = "gimbal"
+version = "0.1.0"
+
+[dependencies]
+kiss3d = "*"
+nalgebra = "*"
